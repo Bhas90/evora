@@ -35,7 +35,7 @@ const PricingSection = () => {
         <div className="flex justify-between pt-4 text-left">
           <p className="text-black">267</p>
           <p className="text-black">3752 SFT</p>
-          <p className="text-white px-2.5 py-1 rounded bg-[#002954] hover:bg-[#fea611] transition">₹4.50 Cr*</p>
+          <p className="text-white px-2.5 py-1 rounded bg-[#002954] hover:bg-[#fea611] transition">Price ₹4.50 Cr*</p>
         </div>
 
         {/* 3 BHK – PRICE ON REQUEST BUTTON */}
