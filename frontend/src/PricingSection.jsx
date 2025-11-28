@@ -26,21 +26,21 @@ const PricingSection = () => {
       <div className="bg-white rounded-lg shadow-md p-6 max-w-3xl mx-auto border border-gray-200">
         {/* Header */}
         <div className="flex justify-between items-center border-b border-yellow-800 pb-3 text-left">
-          <p className="font-semibold text-black">SQ.YDS:</p>
-          <p className="font-semibold text-black">SIZES:</p>
+          <p className="font-semibold text-black">Plot Area</p>
+          <p className="font-semibold text-black">Villa Sizes</p>
           <p className="font-semibold text-black">Base Price:</p>
         </div>
 
         {/* 2 BHK */}
         <div className="flex justify-between pt-4 text-left">
-          <p className="text-black">267</p>
+          <p className="text-black">267 SQ.YDS</p>
           <p className="text-black">3752 SFT</p>
           <p className="text-white px-2.5 py-1 rounded bg-[#002954] hover:bg-[#fea611] transition">Price ₹4.50 Cr*</p>
         </div>
 
         {/* 3 BHK – PRICE ON REQUEST BUTTON */}
         <div className="flex justify-between pt-4 text-left">
-          <p className="text-black">317</p>
+          <p className="text-black">317 SQ.YDS</p>
           <p className="text-black">4094 SFT</p>
           
           <button
@@ -51,7 +51,7 @@ const PricingSection = () => {
           </button>
         </div>
         <div className="flex justify-between pt-4 text-left">
-          <p className="text-black">357</p>
+          <p className="text-black">357 SQ.YDS</p>
           <p className="text-black">4904 SFT</p>
           
           <button
@@ -62,7 +62,7 @@ const PricingSection = () => {
           </button>
         </div>
         <div className="flex justify-between pt-4 text-left">
-          <p className="text-black">440</p>
+          <p className="text-black">440 SQ.YDS</p>
           <p className="text-black">5900 SFT</p>
           
           <button
