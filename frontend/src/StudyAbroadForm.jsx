@@ -27,7 +27,7 @@ const StudyAbroadForm = () => {
               "Grand Entrance Lobby",
               "Facing: East, West & North",
               "4 & 5 BHK Triplex Villas",
-              "Possession : April 2029",             
+              "Possession : June 2026",             
             ].map((item, index) => (
               <li key={index} className="flex items-start">
                 <span className="text-xl mr-2" style={{ color: '#ffffff' }}>✔</span>
@@ -111,7 +111,7 @@ const StudyAbroadForm = () => {
         "Grand Entrance Lobby",
         "Facing: East, West & North",
         "4 & 5 BHK Triplex Villas",
-        "Possession: April 2029",
+        "Possession: June 2026",
       ].map((item, index) => (
         <li key={index} className="flex items-center">
           <span className="text-2xl mr-2 text-[#fea611]">✔</span>
